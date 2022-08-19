@@ -27,7 +27,7 @@ kiwi في البداية هتذهب لهذا اللينك سواء على اله
 
 ![alt text](https://github.com/ahmedosaka/YomichanInArabic/blob/main/img/downloadall.jpg)
 
-بعدها هتبدأ تفك الضغط عن الملفات فهتظر بالشكل ده عدا انه في ملفات هتنضاف لاحقا
+بعدها هتبدأ تفك الضغط عن الملفات فهتظهر بالشكل ده عدا انه في ملفات هتنضاف لاحقا
 انت هتتأكد من مسار الملف اللي تم فك الضغط عنه وتتأكد انه بداخله القاموس كما بالصور أدناه
 
 ![alt text](https://github.com/ahmedosaka/YomichanInArabic/blob/main/img/choosefolder.jpg)
