@@ -58,11 +58,10 @@ shiftالمشكلة بالنسبة للهواتف انه لازم تضغط زر 
 الاعدادات نفسها على الهاتف والكمبيوتر
 
 لتحسين شكل ظهور الجٌمل والكلمات باللغة العربية يرجى حفظ هذا الكود في : 
-<br>
-<img src="https://prnt.sc/YAjGO41F7xdq">
-<br>
-<img src="[https://prnt.sc/YAjGO41F7xdq](https://prnt.sc/YZdxK3XfxZRL)">
-<br><br>
+![alt text](https://github.com/ahmedosaka/YomichanInArabic/blob/main/img/12345.jpg)
+
+![alt text](https://github.com/ahmedosaka/YomichanInArabic/blob/main/img/123456.jpg)
+
 
 body {
   text-align: right !important;
