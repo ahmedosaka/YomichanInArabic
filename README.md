@@ -59,10 +59,9 @@ shiftالمشكلة بالنسبة للهواتف انه لازم تضغط زر 
 
 لتحسين شكل ظهور الجٌمل والكلمات باللغة العربية يرجى حفظ هذا الكود في : 
 <br>
-![alt text](https://prnt.sc/YAjGO41F7xdq)
+<img src="https://prnt.sc/YAjGO41F7xdq">
 <br>
-![alt text](https://prnt.sc/YZdxK3XfxZRL)
-
+<img src="[https://prnt.sc/YAjGO41F7xdq](https://prnt.sc/YZdxK3XfxZRL)">
 <br><br>
 
 body {
