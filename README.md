@@ -58,8 +58,13 @@ shiftالمشكلة بالنسبة للهواتف انه لازم تضغط زر 
 الاعدادات نفسها على الهاتف والكمبيوتر
 
 لتحسين شكل ظهور الجٌمل والكلمات باللغة العربية يرجى حفظ هذا الكود في : 
-https://prnt.sc/YAjGO41F7xdq
-https://prnt.sc/YZdxK3XfxZRL
+<br>
+![alt text](https://prnt.sc/YAjGO41F7xdq)
+<br>
+![alt text](https://prnt.sc/YZdxK3XfxZRL)
+
+<br><br>
+
 body {
   text-align: right !important;
   margin: 0px 10px 0px 5px;  /* 上:     10px のマージン */
